@@ -1,0 +1,5 @@
+{
+  "name": "Sonic.ai",
+  "description": "An intelligent music recommendation app that analyzes your mood from text and suggests songs that match your vibe. Features a sleek chat interface and real-time AI-powered suggestions.",
+  "requestFramePermissions": []
+}
